@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leminhloc2008" alt="leminhloc2008" /></a> </p>
 
-- 🌱 Cramming in to my brain **mechanism as fast as I can.**
+- 🌱 gg**
 
 - 📫 How to reach me **minhlocle08@gmail.com**
 
