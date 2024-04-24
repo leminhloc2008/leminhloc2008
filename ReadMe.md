@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Le Minh Loc</h1>
-<h3 align="center">A 17 years old coder trying to make his way through high school</h3>
+<h3 align="center">ok</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leminhloc2008&label=Profile%20views&color=0e75b6&style=flat" alt="leminhloc2008" /> </p>
 
